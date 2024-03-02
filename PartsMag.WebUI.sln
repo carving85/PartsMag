@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34526.213
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartsMag.WebUI", "PartsMag.WebUI\PartsMag.WebUI.csproj", "{B35BFC79-4B8B-4F1F-A25D-6A84704572D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsMag.Core", "ParsMag.Core\ParsMag.Core.csproj", "{8D4367B8-1D1C-48FC-8817-EC3FDC80B8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartsMag.Infrastructure", "PartsMag.Infrastructure\PartsMag.Infrastructure.csproj", "{60644D58-5D07-4E98-AF3F-FBAA7D7F5B9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B35BFC79-4B8B-4F1F-A25D-6A84704572D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B35BFC79-4B8B-4F1F-A25D-6A84704572D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B35BFC79-4B8B-4F1F-A25D-6A84704572D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4367B8-1D1C-48FC-8817-EC3FDC80B8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4367B8-1D1C-48FC-8817-EC3FDC80B8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4367B8-1D1C-48FC-8817-EC3FDC80B8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4367B8-1D1C-48FC-8817-EC3FDC80B8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60644D58-5D07-4E98-AF3F-FBAA7D7F5B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60644D58-5D07-4E98-AF3F-FBAA7D7F5B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60644D58-5D07-4E98-AF3F-FBAA7D7F5B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60644D58-5D07-4E98-AF3F-FBAA7D7F5B9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
