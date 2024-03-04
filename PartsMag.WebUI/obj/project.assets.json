@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carvi\\Source\\Repos\\PartsMag\\PartsMag.WebUI\\PartsMag.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\carvi\\source\\repos\\PartsMag\\PartsMag.WebUI\\PartsMag.WebUI.csproj",
       "projectName": "PartsMag.WebUI",
-      "projectPath": "C:\\Users\\carvi\\Source\\Repos\\PartsMag\\PartsMag.WebUI\\PartsMag.WebUI.csproj",
+      "projectPath": "C:\\Users\\carvi\\source\\repos\\PartsMag\\PartsMag.WebUI\\PartsMag.WebUI.csproj",
       "packagesPath": "C:\\Users\\carvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carvi\\Source\\Repos\\PartsMag\\PartsMag.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\carvi\\source\\repos\\PartsMag\\PartsMag.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,7 +34,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/a1ssiSwTcwWXujOvvSeMxh37omCDFLJjNPUnkVqm3TKKcH1IGG/api/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {

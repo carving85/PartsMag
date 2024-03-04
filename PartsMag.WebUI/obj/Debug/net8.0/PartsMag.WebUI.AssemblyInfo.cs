@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PartsMag.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc53632811cd79a8d89b4cefb560bf66d6588f6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b36b96e3f05d53c696b19e8151310bd488ade20")]
 [assembly: System.Reflection.AssemblyProductAttribute("PartsMag.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PartsMag.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
